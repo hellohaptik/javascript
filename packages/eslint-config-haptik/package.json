@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-haptik",
+  "version": "0.0.1",
+  "description": "Haptik's ESLint config, based on Airbnb style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run --silent tests-only"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellohaptik/javascript-style-guide.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Gopal Ojha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellohaptik/javascript-style-guide/issues"
+  },
+  "homepage": "https://github.com/hellohaptik/javascript-style-guide#readme"
+}
